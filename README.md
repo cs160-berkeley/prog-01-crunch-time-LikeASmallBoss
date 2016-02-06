@@ -1,14 +1,14 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+The app would allow users to enter the type of exercise and how many reps/minutes they did. The user should see how many calories they have burned. Also it could allow a user to enter the type of exercise and how many reps/minutes they did. The user should also see the equivalent amount of minutes/reps for any other exercise needed to burn an equivalent amount of calories.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Qingyu Wang ([qywang@berkeley.edu](mailto:qywang@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time] (https://www.youtube.com/watch?v=9ocG9IZ-_lQ)
 
 ## Screenshots
 
@@ -16,7 +16,5 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
