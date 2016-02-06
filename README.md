@@ -12,9 +12,8 @@ See [Crunch Time] (https://www.youtube.com/watch?v=9ocG9IZ-_lQ)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/screenshot2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/screenshot3.png" height="400" alt="Screenshot"/>
+<img src="screenshots/screenshot4.png" height="400" alt="Screenshot"/>
 
-## Acknowledgments
-
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
